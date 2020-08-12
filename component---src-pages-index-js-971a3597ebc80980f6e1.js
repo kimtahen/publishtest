@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{EDuE:function(n,e,t){},RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var a=t("q1tI"),i=t.n(a),o=(t("EDuE"),t("8k0H"));function u(n){var e=n.location;return i.a.createElement(o.a,{sideList:0,pathName:e.pathname},i.a.createElement("h1",null,"This is your Forif Home!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-971a3597ebc80980f6e1.js.map
